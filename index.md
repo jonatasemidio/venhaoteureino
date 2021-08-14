@@ -8,7 +8,7 @@ Esse espaço tem como objetivo juntar formas de se utilizar da internet para con
 * Para ajudar na integração das redes busque sempre ter o mesmo nome nas contas e que tenha relação com o projeto. Caso não seja possível (domínio já comprado ou conta já criado), busque se aproximar o máximo possível. Ex: venhaoteureino, venhaoteureino-shorts, venhaoteureinofm.
 * Busque sempre interligar as postagens. [Saiba mais](https://jonatasemidio.github.io/venhaoteureino/content-link)
 
-[![Everything Is AWESOME](https://raw.githubusercontent.com/jonatasemidio/venhaoteureino/main/src/anchor.png)](https://github.com/jonatasemidio/venhaoteureino/blob/main/src/anchor.mp4?raw=true "Everything Is AWESOME")
+[![Everything Is AWESOME](https://raw.githubusercontent.com/jonatasemidio/venhaoteureino/main/src/anchor.png)](https://www.youtube.com/watch?v=OO0PQ4uPkl4 "Everything Is AWESOME")
 
 [![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
