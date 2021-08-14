@@ -8,6 +8,8 @@ Esse espaço tem como objetivo juntar formas de se utilizar da internet para con
 * Para ajudar na integração das redes busque sempre ter o mesmo nome nas contas e que tenha relação com o projeto. Caso não seja possível (domínio já comprado ou conta já criado), busque se aproximar o máximo possível. Ex: venhaoteureino, venhaoteureino-shorts, venhaoteureinofm.
 * Busque sempre interligar as postagens. [Saiba mais](https://jonatasemidio.github.io/venhaoteureino/content-link)
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 ### Algumas ferramentas que podem ser usadas e naturalmente serão integradas de acordo com o conteudo gerado.
 - [GoDaddy](https://pt.godaddy.com/): Utilize o site de compra de Dominio para ver se existe algum domínio disponível. [Saiba mais](https://jonatasemidio.github.io/venhaoteureino/godaddy-howto)
 - [Wordpress](https://wordpress.com/home/jonatasemidio.wordpress.com): Crie um bog para o registro dos textos e centralização do conteúdo. [Saiba como](https://jonatasemidio.github.io/venhaoteureino/wordpress-howto)
