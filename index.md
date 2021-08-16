@@ -14,3 +14,5 @@ Esse espaço tem como objetivo juntar formas de se utilizar da internet para con
 - [youtube](https://www.youtube.com/): Crie um canal para divulgação de vídeos e até audios com uma imagem de fundo (podcast no youtube). [Saiba como](https://jonatasemidio.github.io/venhaoteureino/youtube-howto)
 - [Anchor](https://anchor.fm/): Crie uma conta para centralizar todos os audios. [Saiba como](https://jonatasemidio.github.io/venhaoteureino/anchor-howto)
 
+![https://raw.githubusercontent.com/jonatasemidio/venhaoteureino/gh-pages/src/img/thumbintro.png](https://www.youtube.com/watch?v=gYbfuakyexQ)
+
