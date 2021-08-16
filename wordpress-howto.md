@@ -1,7 +1,3 @@
 # Wordpress
 
-## O que é o wordpress
-
-## Como criar seu blog no wordpress
-
-## Dicas para a sua postagem
+[![Wordpress](/src/img/thumb-wordpress.png)](https://www.youtube.com/watch?v=D9hJIBaAHRk)
